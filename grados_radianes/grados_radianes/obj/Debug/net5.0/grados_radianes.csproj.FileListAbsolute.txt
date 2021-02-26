@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/obj/Debug/net5.0/grados_radianes.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/obj/Debug/net5.0/grados_radianes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/obj/Debug/net5.0/grados_radianes.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/obj/Debug/net5.0/grados_radianes.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/obj/Debug/net5.0/grados_radianes.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/bin/Debug/net5.0/grados_radianes.deps.json
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/bin/Debug/net5.0/grados_radianes.runtimeconfig.json
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/bin/Debug/net5.0/grados_radianes.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/bin/Debug/net5.0/grados_radianes.dll
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/bin/Debug/net5.0/ref/grados_radianes.dll
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/bin/Debug/net5.0/grados_radianes.pdb
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/obj/Debug/net5.0/grados_radianes.dll
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/obj/Debug/net5.0/ref/grados_radianes.dll
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/obj/Debug/net5.0/grados_radianes.pdb
+/Users/macbookpro/Desktop/Tarea 3/grados_radianes/grados_radianes/obj/Debug/net5.0/grados_radianes.genruntimeconfig.cache

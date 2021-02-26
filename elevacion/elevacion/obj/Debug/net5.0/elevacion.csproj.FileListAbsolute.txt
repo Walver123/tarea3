@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/bin/Debug/net5.0/elevacion.deps.json
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/bin/Debug/net5.0/elevacion.runtimeconfig.json
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/bin/Debug/net5.0/elevacion.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/bin/Debug/net5.0/elevacion.dll
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/bin/Debug/net5.0/ref/elevacion.dll
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/bin/Debug/net5.0/elevacion.pdb
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/obj/Debug/net5.0/elevacion.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/obj/Debug/net5.0/elevacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/obj/Debug/net5.0/elevacion.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/obj/Debug/net5.0/elevacion.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/obj/Debug/net5.0/elevacion.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/obj/Debug/net5.0/elevacion.dll
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/obj/Debug/net5.0/ref/elevacion.dll
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/obj/Debug/net5.0/elevacion.pdb
+/Users/macbookpro/Desktop/Tarea 3/elevacion/elevacion/obj/Debug/net5.0/elevacion.genruntimeconfig.cache

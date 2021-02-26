@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{88F7596C-6C65-43CE-B98E-FB339ADF84E0}|Default">
+  <MonoDevelop.Ide.ItemProperties.edad__mayor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="edad_mayor/Program.cs">
+    <Files>
+      <File FileName="edad_mayor/Program.cs" Line="37" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="edad_mayor" expanded="True">
+            <Node name="edad_mayor" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

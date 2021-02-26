@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/obj/Debug/net5.0/Area.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/obj/Debug/net5.0/Area.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/obj/Debug/net5.0/Area.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/obj/Debug/net5.0/Area.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/obj/Debug/net5.0/Area.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/bin/Debug/net5.0/Area.deps.json
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/bin/Debug/net5.0/Area.runtimeconfig.json
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/bin/Debug/net5.0/Area.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/bin/Debug/net5.0/Area.dll
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/bin/Debug/net5.0/ref/Area.dll
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/bin/Debug/net5.0/Area.pdb
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/obj/Debug/net5.0/Area.dll
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/obj/Debug/net5.0/ref/Area.dll
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/obj/Debug/net5.0/Area.pdb
+/Users/macbookpro/Desktop/Tarea 3/Area/Area/obj/Debug/net5.0/Area.genruntimeconfig.cache

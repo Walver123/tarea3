@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AC44B73E-C6E0-4A3A-A178-2AA3A8543993}|Default">
+  <MonoDevelop.Ide.ItemProperties.Par__Impar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Par_Impar/Program.cs">
+    <Files>
+      <File FileName="Par_Impar/Program.cs" Line="13" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Par_Impar" expanded="True">
+            <Node name="Par_Impar" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

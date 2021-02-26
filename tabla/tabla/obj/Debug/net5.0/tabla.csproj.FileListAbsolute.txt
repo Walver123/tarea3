@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/bin/Debug/net5.0/tabla.deps.json
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/bin/Debug/net5.0/tabla.runtimeconfig.json
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/bin/Debug/net5.0/tabla.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/bin/Debug/net5.0/tabla.dll
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/bin/Debug/net5.0/ref/tabla.dll
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/bin/Debug/net5.0/tabla.pdb
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/obj/Debug/net5.0/tabla.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/obj/Debug/net5.0/tabla.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/obj/Debug/net5.0/tabla.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/obj/Debug/net5.0/tabla.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/obj/Debug/net5.0/tabla.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/obj/Debug/net5.0/tabla.dll
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/obj/Debug/net5.0/ref/tabla.dll
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/obj/Debug/net5.0/tabla.pdb
+/Users/macbookpro/Desktop/Tarea 3/tabla/tabla/obj/Debug/net5.0/tabla.genruntimeconfig.cache

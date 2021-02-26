@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/bin/Debug/net5.0/edad_mayor.deps.json
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/bin/Debug/net5.0/edad_mayor.runtimeconfig.json
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/bin/Debug/net5.0/edad_mayor.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/bin/Debug/net5.0/edad_mayor.dll
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/bin/Debug/net5.0/ref/edad_mayor.dll
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/bin/Debug/net5.0/edad_mayor.pdb
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/obj/Debug/net5.0/edad_mayor.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/obj/Debug/net5.0/edad_mayor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/obj/Debug/net5.0/edad_mayor.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/obj/Debug/net5.0/edad_mayor.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/obj/Debug/net5.0/edad_mayor.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/obj/Debug/net5.0/edad_mayor.dll
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/obj/Debug/net5.0/ref/edad_mayor.dll
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/obj/Debug/net5.0/edad_mayor.pdb
+/Users/macbookpro/Desktop/Tarea 3/edad_mayor/edad_mayor/obj/Debug/net5.0/edad_mayor.genruntimeconfig.cache

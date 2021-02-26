@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/bin/Debug/net5.0/numero_1y7.deps.json
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/bin/Debug/net5.0/numero_1y7.runtimeconfig.json
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/bin/Debug/net5.0/numero_1y7.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/bin/Debug/net5.0/numero_1y7.dll
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/bin/Debug/net5.0/ref/numero_1y7.dll
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/bin/Debug/net5.0/numero_1y7.pdb
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/obj/Debug/net5.0/numero_1y7.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/obj/Debug/net5.0/numero_1y7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/obj/Debug/net5.0/numero_1y7.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/obj/Debug/net5.0/numero_1y7.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/obj/Debug/net5.0/numero_1y7.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/obj/Debug/net5.0/numero_1y7.dll
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/obj/Debug/net5.0/ref/numero_1y7.dll
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/obj/Debug/net5.0/numero_1y7.pdb
+/Users/macbookpro/Desktop/Tarea 3/numero_1y7/numero_1y7/obj/Debug/net5.0/numero_1y7.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{81F6F0CC-38D5-481D-AFD6-8E301530F574}|Default">
+  <MonoDevelop.Ide.ItemProperties.grados__radianes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="grados_radianes/Program.cs">
+    <Files>
+      <File FileName="grados_radianes/Program.cs" Line="24" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="grados_radianes" expanded="True">
+            <Node name="grados_radianes" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

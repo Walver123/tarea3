@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/bin/Debug/net5.0/impuesto.deps.json
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/bin/Debug/net5.0/impuesto.runtimeconfig.json
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/bin/Debug/net5.0/impuesto.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/bin/Debug/net5.0/impuesto.dll
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/bin/Debug/net5.0/ref/impuesto.dll
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/bin/Debug/net5.0/impuesto.pdb
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/obj/Debug/net5.0/impuesto.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/obj/Debug/net5.0/impuesto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/obj/Debug/net5.0/impuesto.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/obj/Debug/net5.0/impuesto.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/obj/Debug/net5.0/impuesto.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/obj/Debug/net5.0/impuesto.dll
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/obj/Debug/net5.0/ref/impuesto.dll
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/obj/Debug/net5.0/impuesto.pdb
+/Users/macbookpro/Desktop/Tarea 3/impuesto/impuesto/obj/Debug/net5.0/impuesto.genruntimeconfig.cache

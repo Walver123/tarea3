@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{37D6032E-780E-48FE-8FA1-C470C3A68F97}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="impuesto/Program.cs">
+    <Files>
+      <File FileName="impuesto/Program.cs" Line="25" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="impuesto" expanded="True">
+            <Node name="impuesto" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.impuesto PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/obj/Debug/net5.0/num_primo.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/obj/Debug/net5.0/num_primo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/obj/Debug/net5.0/num_primo.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/obj/Debug/net5.0/num_primo.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/obj/Debug/net5.0/num_primo.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/bin/Debug/net5.0/num_primo.deps.json
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/bin/Debug/net5.0/num_primo.runtimeconfig.json
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/bin/Debug/net5.0/num_primo.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/bin/Debug/net5.0/num_primo.dll
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/bin/Debug/net5.0/ref/num_primo.dll
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/bin/Debug/net5.0/num_primo.pdb
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/obj/Debug/net5.0/num_primo.dll
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/obj/Debug/net5.0/ref/num_primo.dll
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/obj/Debug/net5.0/num_primo.pdb
+/Users/macbookpro/Desktop/Tarea 3/num_primo/num_primo/obj/Debug/net5.0/num_primo.genruntimeconfig.cache

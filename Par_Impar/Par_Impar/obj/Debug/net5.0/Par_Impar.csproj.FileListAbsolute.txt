@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/obj/Debug/net5.0/Par_Impar.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/obj/Debug/net5.0/Par_Impar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/obj/Debug/net5.0/Par_Impar.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/obj/Debug/net5.0/Par_Impar.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/obj/Debug/net5.0/Par_Impar.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/bin/Debug/net5.0/Par_Impar.deps.json
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/bin/Debug/net5.0/Par_Impar.runtimeconfig.json
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/bin/Debug/net5.0/Par_Impar.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/bin/Debug/net5.0/Par_Impar.dll
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/bin/Debug/net5.0/ref/Par_Impar.dll
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/bin/Debug/net5.0/Par_Impar.pdb
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/obj/Debug/net5.0/Par_Impar.dll
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/obj/Debug/net5.0/ref/Par_Impar.dll
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/obj/Debug/net5.0/Par_Impar.pdb
+/Users/macbookpro/Desktop/Tarea 3/Par_Impar/Par_Impar/obj/Debug/net5.0/Par_Impar.genruntimeconfig.cache
